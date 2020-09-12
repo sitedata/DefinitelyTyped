@@ -2,6 +2,6 @@
   "private": true,
   "dependencies": {
     "zipkin": ">=0.11.0",
-    "zipkin-transport-http": "^0.12.0"
+    "zipkin-transport-http": "^0.16.0"
   }
 }
